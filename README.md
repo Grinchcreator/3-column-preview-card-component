@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://grinchcreator.github.io/3-column-preview-card-component/)
+- Live Site URL: (https://grinchcreator.github.io/3-column-preview-card-component/)
 
 ## Author
 
